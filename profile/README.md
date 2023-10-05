@@ -20,7 +20,7 @@ Chưa công bố.
 - Không lưu bất kì dữ liệu về vị trí của người dùng vào máy chủ khi không cần thiết. (*)
 - Tất cả mọi tính toán về vị trí đều được thực hiện ngay trong máy của người dùng.
 
-*Lưu trữ vị trí chỉ được thực hiện trên người khi chính người đó báo khẩn cấp.
+*Lưu trữ vị trí chỉ được thực hiện trên người dùng khi chính người đó báo khẩn cấp.
 
 **4. Miễn phí cho mọi người**:
 
