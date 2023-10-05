@@ -3,9 +3,7 @@
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software for personal use and educational purposes only, subject to the following conditions:
 
-1. Commercial Use Restriction: You may not use the Software or any derivative works for commercial purposes. Commercial purposes include, but are not limited to, selling, licensing, or otherwise generating revenue directly or indirectly from the Software or any product or service incorporating the Software.
-
-2. Non-Monetization: You may not monetize, in any way, the code or ideas contained in the Software or any derivative works based on the Software. This includes, but is not limited to, charging for access to the Software, charging for support or consulting services related to the Software, or utilizing the Software in any way that results in financial gain.
+1. Commercial Use Restriction: You may not use the Software or any derivative works for commercial purposes. Commercial purposes include, but are not limited to, selling, licensing, or otherwise generating revenue directly or indirectly from the Software or any product or service incorporating the Software or utilizing the Software in any way that results in financial gain..
 
 3. Distribution and Adaptation: Any distribution of the Software or any adaptation of the Software is subject to prior written permission from the author. You may not modify, distribute, sublicense, or create derivative works based on the Software without explicit consent from the author.
 
@@ -24,9 +22,7 @@ For inquiries about commercial use, distribution, adaptation, or any other matte
 
 Theo đây, quyền được cấp miễn phí cho bất kỳ người nào có được bản sao của phần mềm này và các tệp tài liệu liên quan ("Phần mềm"), để sử dụng Phần mềm chỉ cho mục đích sử dụng cá nhân và giáo dục, tuân theo các điều kiện sau:
 
-1. Nghiêm cấm sử dụng cho mục đích thương mại: Bạn không được sử dụng Phần mềm hoặc bất kỳ sản phẩm phái sinh nào cho mục đích thương mại. Mục đích thương mại bao gồm nhưng không giới hạn ở việc bán, cấp phép hoặc tạo doanh thu trực tiếp hoặc gián tiếp từ Phần mềm hoặc bất kỳ sản phẩm hoặc dịch vụ nào kết hợp với Phần mềm.
-
-2. Không kiếm tiền: Bạn không được kiếm tiền từ mã hoặc ý tưởng có trong Phần mềm hoặc bất kỳ sản phẩm phái sinh nào dựa trên Phần mềm dưới bất kỳ hình thức nào. Điều này bao gồm nhưng không giới hạn ở việc tính phí truy cập vào Phần mềm, tính phí cho các dịch vụ hỗ trợ hoặc tư vấn liên quan đến Phần mềm hoặc sử dụng Phần mềm theo bất kỳ cách nào mang lại lợi ích tài chính.
+1. Nghiêm cấm sử dụng cho mục đích thương mại: Bạn không được sử dụng Phần mềm hoặc bất kỳ sản phẩm phái sinh nào cho mục đích thương mại. Mục đích thương mại bao gồm nhưng không giới hạn ở việc bán, cấp phép hoặc tạo doanh thu trực tiếp hoặc gián tiếp từ Phần mềm hoặc bất kỳ sản phẩm hoặc dịch vụ nào kết hợp với Phần mềm hoặc sử dụng Phần mềm theo bất kỳ cách nào mang lại lợi ích tài chính.
 
 3. Phân phối và điều chỉnh: Mọi hoạt động phân phối Phần mềm hoặc bất kỳ sự điều chỉnh nào của Phần mềm đều phải có sự cho phép trước bằng văn bản của tác giả. Bạn không được sửa đổi, phân phối, cấp phép lại hoặc tạo tác phẩm phái sinh dựa trên Phần mềm mà không có sự đồng ý rõ ràng của tác giả.
 
