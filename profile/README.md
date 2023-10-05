@@ -11,7 +11,7 @@ Chưa công bố.
 
 **3. Linh hoạt**: Có các chức năng hữu dụng trong các tình huống khẩn cấp.
 
-**4. Miễn phí cho mọi người**: Với ý định là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án.
+**4. Miễn phí cho mọi người**: Với mục đích là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
 - Hạ tầng máy chủ.
