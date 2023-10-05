@@ -8,8 +8,8 @@ Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu
     - **Máy chủ**: Đang thực hiện | 02/10 - Hiện tại
     - **Ứng dụng**: Đang thực hiện | 02/10 - Hiện tại
     - **Phần mềm**: Đã lên kế hoạch | Hiện tại
-
-Đang cập nhật...
+- **Viết tài liệu**: Đang thực hiện | 02/10 - Hiện tại
+- **Chạy thử & sửa lỗi**: Đã lên kế hoạch | Hiện tại
 
 ## Tính năng
 **1. Tốc độ**:
