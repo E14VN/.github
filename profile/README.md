@@ -17,7 +17,7 @@ Chưa công bố.
 
 **3. Miễn phí cho mọi người**:
 
-Với mục đích là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng từ dự án.
+Với mục đích là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng từ E14.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
 - Hạ tầng máy chủ
