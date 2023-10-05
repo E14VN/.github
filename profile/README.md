@@ -14,8 +14,8 @@ Chưa công bố.
 **4. Miễn phí cho mọi người**: Với mục đích là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
-- Hạ tầng máy chủ.
-- Google maps API.
+- Hạ tầng máy chủ
+- [Google maps API](https://developers.google.com/maps)
 
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
