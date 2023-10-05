@@ -1,6 +1,9 @@
 # E14VN
 Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
+# Tiến độ:
+Chưa công bố.
+
 ## Tính năng:
 **1. Tốc độ**: Ứng dụng và phần mềm được thiết kế để thao tác một cách rõ ràng, dễ sử dụng, không gây rối, có thể sử dụng trên mọi thiết bị thông minh có kết nối mạng.
 
