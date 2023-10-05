@@ -7,7 +7,7 @@ Chưa công bố.
 ## Tính năng
 **1. Tốc độ**:
 
-- Máy chủ phát triển chiều ngang: Tăng tốc độ xử lí thông tin bằng cách thêm Node và Balancer.
+- Máy chủ phát triển chiều ngang: Tăng tốc độ xử lí thông tin bằng cách thêm các Nodes và Balancer.
 - Người dùng: Chỉ cần có điện thoại là đủ để sử dụng ứng dụng.
 
 **2. Tiện lợi**:
@@ -15,13 +15,26 @@ Chưa công bố.
 - Ứng dụng thao tác một cách rõ ràng, dễ sử dụng, không gây rối, có thể sử dụng trên mọi thiết bị thông minh có kết nối mạng.
 - Hệ thống máy chủ dễ bảo trì, có các tài liệu có sẵn để đọc và hiểu nhanh hơn.
 
-**3. Miễn phí cho mọi người**:
+**3. Riêng tư**:
+
+- Không lưu bất kì dữ liệu về vị trí của người dùng vào máy chủ khi không cần thiết. (*)
+- Tất cả mọi tính toán về vị trí đều được thực hiện ngay trong máy của người dùng.
+
+*Lưu trữ vị trí chỉ được thực hiện trên người khi chính người đó báo khẩn cấp.
+
+**4. Miễn phí cho mọi người**:
 
 Sản phẩm phi lợi nhuận với mục đích đem lại sự an toàn cho mọi người. Có thể quyên góp cho dự án.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
+
+Phương án 1 (đang được sử dụng):
 - Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
+- MongoDB: Lưu trữ thông tin người dùng đã đăng kí và chạy 
 - [Google maps API](https://mapsplatform.google.com/pricing/): Chọn địa điểm trên bản đồ.
+- [Twilio](https://www.twilio.com/en-us/pricing): Xác minh số điện thoại.
+
+
 
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
