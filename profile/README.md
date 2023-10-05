@@ -4,10 +4,10 @@ Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu
 ## Tiến độ
 - **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
 - **Nghiên cứu & thử nghiệm**: Đang thực hiện | 01/10 - Hiện tại
-- **Lập trình dự án**: Đang chờ | ?
-    - **Máy chủ**: Đã lên kế hoạch | ?
-    - **Ứng dụng**: Đã lên kế hoạch | ?
-    - **Phần mềm**: Đã lên kế hoạch | ?
+- **Lập trình dự án**: Đang thực hiện | 02/10 - Hiện tại
+    - **Máy chủ**: Đang thực hiện | 02/10 - Hiện tại
+    - **Ứng dụng**: Đang thực hiện | 02/10 - Hiện tại
+    - **Phần mềm**: Đã lên kế hoạch | Hiện tại
 
 Đang cập nhật...
 
