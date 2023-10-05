@@ -39,7 +39,7 @@ Chi phí phải bỏ ra khi sử dụng dự án vào phương án phân phối:
 - Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
 - [MongoDB](https://www.mongodb.com) (Nếu sử dụng loại hình dịch vụ): Lưu trữ thông tin người dùng đã đăng kí và vị trí của các trạm.
 - [Twilio](https://www.twilio.com/): Xác minh số điện thoại.
-- [Firebase](https://firebase.google.com/): Gửi thông báo (Không tốn phí).
+- [Firebase](https://firebase.google.com/): Gửi thông báo (Không mất phí).
 - [Google maps API](https://mapsplatform.google.com): Chọn địa điểm trên bản đồ.
 
 **Phương án 2 (không được tích hợp):**
