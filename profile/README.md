@@ -28,13 +28,13 @@ Sản phẩm phi lợi nhuận với mục đích đem lại sự an toàn cho m
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
 
-Phương án 1 (đang được sử dụng):
+**Phương án 1 (đang được tích hợp):**
 - Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
 - [MongoDB](https://www.mongodb.com/pricing) (Nếu sử dụng dịch vụ): Lưu trữ thông tin người dùng đã đăng kí và vị trí của các trạm.
 - [Google maps API](https://mapsplatform.google.com/pricing/): Chọn địa điểm trên bản đồ.
 - [Twilio](https://www.twilio.com/en-us/pricing): Xác minh số điện thoại.
 
-Phương án 2 (không được tích hợp):
+**Phương án 2 (không được tích hợp):**
 - Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
 - [Firebase](https://firebase.google.com/pricing): Lưu trữ thông tin người dùng đã đăng kí, vị trí của các trạm và xác minh số điện thoại.
 - [Google maps API](https://mapsplatform.google.com/pricing/): Chọn địa điểm trên bản đồ.
