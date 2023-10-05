@@ -13,6 +13,10 @@ Chưa công bố.
 
 **4. Miễn phí cho mọi người**: Với ý định là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án.
 
+Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
+- Hạ tầng máy chủ.
+- Google maps API.
+
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
 Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/blob/main/LICENSE.md)
