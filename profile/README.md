@@ -8,6 +8,6 @@ Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu
 
 **3. Linh hoạt**: Có các chức năng hữu dụng trong các tình huống khẩn cấp.
 
-**4. Miễn phí cho mọi người**: Không có phí ẩn, phí sử dụng hay bất kì một loại phí gì. Vì nền tảng này được làm ra như một dự án vì cộng đồng nên hoàn toàn miễn phí, và mã nguồn mở dưới [giấy phép riêng](https://github.com/E14VN/.github/blob/main/LICENSE.md), cho phép tạo bản sao chép để phục vụ mục đích học tập, tìm hiểu và cải tiến nền tảng.
+**4. Miễn phí cho mọi người**: Với ý định là một sản phẩm phi lợi nhuận nên nhông có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án mã nguồn mở [giấy phép riêng](https://github.com/E14VN/.github/blob/main/LICENSE.md), cho phép tạo bản sao chép để phục vụ mục đích học tập, tìm hiểu và cải tiến nền tảng.
 
 ### Ý tưởng của dự án được lập vào 15/09/2023 21h37.
