@@ -33,7 +33,7 @@ Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu
 
 Sản phẩm phi lợi nhuận với mục đích đem lại sự an toàn cho mọi người. Có thể quyên góp cho dự án.
 
-Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
+Chi phí phải bỏ ra khi sử dụng dự án vào phương án phân phối:
 
 **Phương án 1 (đang được tích hợp):**
 - Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
