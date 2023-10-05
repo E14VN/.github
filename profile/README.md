@@ -1,5 +1,5 @@
 # E14VN
-Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
+Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
 ## Tiến độ
 - **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
