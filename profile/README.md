@@ -37,15 +37,17 @@ Chi phí phải bỏ ra khi sử dụng dự án vào phương án phân phối:
 
 **Phương án 1 (đang được tích hợp):**
 - **Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.**
-- [MongoDB](https://www.mongodb.com) (Nếu sử dụng loại hình dịch vụ): Lưu trữ thông tin người dùng đã đăng kí và vị trí của các trạm.
-- [Twilio](https://www.twilio.com/): Xác minh số điện thoại.
-- [Firebase](https://firebase.google.com/): Gửi thông báo (Không mất phí).
-- [Google maps API](https://mapsplatform.google.com): Chọn địa điểm trên bản đồ.
+    - [MongoDB](https://www.mongodb.com) (Nếu sử dụng loại hình dịch vụ): Lưu trữ thông tin người dùng đã đăng kí và vị trí của các trạm.
+    - [Twilio](https://www.twilio.com/): Xác minh số điện thoại.
+    - [Firebase](https://firebase.google.com/): Gửi thông báo (Không mất phí).
+    - [Google maps API](https://mapsplatform.google.com): Chọn địa điểm trên bản đồ.
+- **Ứng dụng và phần mềm: Không có phí.**
 
 **Phương án 2 (không được tích hợp):**
 - **Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.**
-- [Firebase](https://firebase.google.com/): Lưu trữ thông tin người dùng đã đăng kí, vị trí của các trạm, gửi thông báo.
-- [Google maps API](https://mapsplatform.google.com/): Chọn địa điểm trên bản đồ.
+    - [Firebase](https://firebase.google.com/): Lưu trữ thông tin người dùng đã đăng kí, vị trí của các trạm, gửi thông báo.
+    - [Google maps API](https://mapsplatform.google.com/): Chọn địa điểm trên bản đồ.
+- **Ứng dụng và phần mềm: Không có phí.**
 
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
