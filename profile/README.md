@@ -20,8 +20,8 @@ Chưa công bố.
 Sản phẩm phi lợi nhuận với mục đích đem lại sự an toàn cho mọi người. Có thể quyên góp cho dự án.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
-- Hạ tầng máy chủ
-- [Google maps API](https://mapsplatform.google.com/pricing/)
+- Hạ tầng máy chủ: Chạy máy chủ của E14 để nền tảng có thể hoạt động.
+- [Google maps API](https://mapsplatform.google.com/pricing/): Chọn địa điểm trên bản đồ.
 
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
