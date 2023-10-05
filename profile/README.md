@@ -13,7 +13,9 @@ Chưa công bố.
 
 **4. Miễn phí cho mọi người**: Với ý định là một sản phẩm phi lợi nhuận nên không có phí ẩn, phí sử dụng hay bất kì một loại phí gì từ dự án.
 
-Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng. Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/blob/main/LICENSE.md)
+Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
+
+Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/blob/main/LICENSE.md)
 
 Tóm tắt: Cho phép sử dụng để phục vụ mục đích học tập, tìm hiểu và cải tiến nền tảng. Không cho phép việc sử dụng dự án hay quá nhiều ý tưởng từ đó để tạo lợi nhuận.
 
