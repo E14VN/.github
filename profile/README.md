@@ -2,7 +2,14 @@
 Dự án báo phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
 ## Tiến độ
-Chưa công bố.
+- **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
+- **Nghiên cứu & thử nghiệm**: Đang thực hiện | 01/10 - Hiện tại
+- **Lập trình dự án**: Đang chờ | ?
+    - **Máy chủ**: Đã lên kế hoạch | ?
+    - **Ứng dụng**: Đã lên kế hoạch | ?
+    - **Phần mềm**: Đã lên kế hoạch | ?
+
+Đang cập nhật...
 
 ## Tính năng
 **1. Tốc độ**:
