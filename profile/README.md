@@ -15,7 +15,7 @@ Chưa công bố.
 
 Chi phí phải bỏ ra khi sử dụng dự án vào mục đích phân phối:
 - Hạ tầng máy chủ
-- [Google maps API](https://developers.google.com/maps)
+- [Google maps API](https://mapsplatform.google.com/pricing/)
 
 Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về mục đích sử dụng.
 
