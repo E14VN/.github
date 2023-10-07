@@ -11,6 +11,7 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
         - Hoàn thành chức năng đăng kí.
     - **Ứng dụng**: Đang thực hiện | 02/10 - Hiện tại
         - Hoàn thành thiết kế hệ thống.
+        - Hoàn thành chức năng đăng kí.
         - Hoàn thành chức năng thông báo.
         - Hoàn thành chức năng chọn khoanh vùng.
     - **Phần mềm**: Đã lên kế hoạch | Hiện tại
