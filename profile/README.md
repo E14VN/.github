@@ -1,4 +1,7 @@
 # E14VN
+
+### VI | EN
+
 Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
 ## Tiến độ
