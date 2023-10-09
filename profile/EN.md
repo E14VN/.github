@@ -1,6 +1,6 @@
 # E14VN
 
-### VI | EN
+### [VI](https://github.com/E14VN/.github/blob/main/profile/README.md) | EN
 
 Project for developing a global emergency alarm (fire, ambulance, police, rescue,...)
 
