@@ -1,6 +1,6 @@
 # E14VN
 
-### VI | EN
+### VI | [EN](https://github.com/E14VN/.github/blob/main/profile/EN.md)
 
 Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
