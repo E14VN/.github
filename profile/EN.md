@@ -66,7 +66,7 @@ Costs incurred when using the project in the distribution plan:
 
 Although it is an open source product, there are some limitations on its intended use.
 
-Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/blob/main/LICENSE.md)
+Xem thêm: [E14 Open Source License](https://github.com/E14VN/.github/blob/main/LICENSE.md)
 
 Summary: Allows use for learning, understanding and improving the platform. Do not allow the use of the project or too many ideas from it to make a profit.
 
