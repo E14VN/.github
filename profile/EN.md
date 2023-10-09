@@ -71,3 +71,4 @@ Xem thêm: [E14 Open Source License](https://github.com/E14VN/.github/blob/main/
 Summary: Allowed the use for learning, understanding and improving the platform. Not allowed the use of the project or too many ideas from it to make a profit.
 
 ### Project ideas are established on 15/09/2023 21h37
+Made with love from Vietnam 🇻🇳
