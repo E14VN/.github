@@ -28,6 +28,8 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 - **Viết tài liệu**: Đang thực hiện | 02/10 - Hiện tại
 - **Chạy thử & sửa lỗi**: Đã lên kế hoạch | Hiện tại
 
+### Máy chủ và ứng dụng đang đến giai đoạn Alpha.
+
 ### Hệ thống nhúng
 - **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
 - **Nghiên cứu & thử nghiệm**: Đã lên kế hoạch | Hiện tại
