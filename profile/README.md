@@ -11,11 +11,12 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 - **Thực hiện dự án**: Đang thực hiện | 02/10 - Hiện tại
     - **Máy chủ**: Đang thực hiện | 02/10 - Hiện tại
         - Hoàn thành thiết kế hệ thống.
+        - - Hoàn thành chức năng đăng nhập cho trạm.
+        - Hoàn thành chức năng lưu trữ thông tin trạm.
         - Hoàn thành chức năng gửi báo cháy tới trạm.
-        - Hoàn thành chức năng đăng nhập cho trạm.
         - Hoàn thành chức năng lưu trữ báo cháy theo tỉnh cho trạm.
-        - Hoàn thành chức năng xem lịch sử cho trạm.
         - Hoàn thành chức năng đăng kí cho người dùng.
+        - Hoàn thành chức năng lưu trữ thông tin người dùng.
         - Hoàn thành chức năng nhận báo cháy từ người dùng.
         - Hoàn thành chức năng gửi thông báo đẩy tới người dùng khoanh vùng.
     - **Ứng dụng**: Đang thực hiện | 02/10 - Hiện tại
