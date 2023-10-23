@@ -82,5 +82,3 @@ Tuy là sản phẩm mã nguồn mở, nhưng có một số giới hạn về m
 Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/blob/main/LICENSE.md)
 
 Tóm tắt: Cho phép sử dụng để phục vụ mục đích học tập, tìm hiểu và cải tiến nền tảng. Không cho phép việc sử dụng dự án hay quá nhiều ý tưởng từ đó để tạo lợi nhuận.
-
-### Ý tưởng của dự án được lập vào 15/09/2023 21h37
