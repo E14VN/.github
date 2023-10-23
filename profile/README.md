@@ -11,7 +11,7 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 - **Thực hiện dự án**: Đang thực hiện | 02/10 - Hiện tại
     - **Máy chủ**: Đang thực hiện | 02/10 - Hiện tại
         - Hoàn thành thiết kế hệ thống.
-        - - Hoàn thành chức năng đăng nhập cho trạm.
+        - Hoàn thành chức năng đăng nhập cho trạm.
         - Hoàn thành chức năng lưu trữ thông tin trạm.
         - Hoàn thành chức năng gửi báo cháy tới trạm.
         - Hoàn thành chức năng lưu trữ báo cháy theo tỉnh cho trạm.
@@ -84,4 +84,3 @@ Xem thêm: [Giấy phép E14 mã nguồn mở](https://github.com/E14VN/.github/
 Tóm tắt: Cho phép sử dụng để phục vụ mục đích học tập, tìm hiểu và cải tiến nền tảng. Không cho phép việc sử dụng dự án hay quá nhiều ý tưởng từ đó để tạo lợi nhuận.
 
 ### Ý tưởng của dự án được lập vào 15/09/2023 21h37
-Made with love from Vietnam 🇻🇳
