@@ -4,8 +4,31 @@
 
 Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thương, cảnh sát, cứu hộ,...)
 
+## Nền tảng
+- **Máy chủ**:
+  - Phục vụ cho hoạt động của toàn bộ nền tảng.
+  - Viết bằng Node.js.
+  - Phát triển chiều ngang: Tăng tốc độ xử lí thông tin bằng cách thêm các Nodes và Balancer.
+
+- **Phần mềm máy tính**:
+  - Phục vụ cho các trạm trực.
+  - Gọn nhẹ (20MB), dễ cài đặt.
+  - Có các thông tin cơ bản như: Địa chỉ (gần đúng), Vị trí (Vĩ độ, kinh độ), Số điện thoại người báo.
+  - Cơ chế fallback trong trường hợp máy chủ tắt.
+  - Hoạt động dưới ngầm.
+  - Giao diện trực quan.
+  - Có tài liệu hướng dẫn.
+
+- **Ứng dụng điện thoại**:
+  - Phục vụ cho người dùng.
+  - Gọn nhẹ (6MB).
+  - Có các chức năng như: Báo cháy, thêm liên kết, chọn khoanh vùng nhận thông báo.
+  - Cơ chế fallback trong trường hợp máy chủ tắt.
+  - Giao diện trực quan.
+  - Có tài liệu hướng dẫn.
+
 ## Tiến độ
-### Nền tảng
+
 - **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
 - **Nghiên cứu & thử nghiệm**: Đang thực hiện | 01/10 - Hiện tại
 - **Thực hiện dự án**: Đang thực hiện | 02/10 - Hiện tại
