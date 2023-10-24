@@ -14,7 +14,7 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
         - Hoàn thành chức năng đăng nhập cho trạm.
         - Hoàn thành chức năng lưu trữ thông tin trạm.
         - Hoàn thành chức năng gửi báo cháy tới trạm.
-        - Hoàn thành chức năng lưu trữ báo cháy theo tỉnh cho trạm.
+        - Hoàn thành chức năng lưu trữ báo cháy cho trạm.
         - Hoàn thành chức năng đăng kí cho người dùng.
         - Hoàn thành chức năng lưu trữ thông tin người dùng.
         - Hoàn thành chức năng nhận báo cháy từ người dùng.
@@ -29,6 +29,8 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
     - **Phần mềm**: Đang thực hiện | 15/10 - Hiện tại
         - Hoàn thành thiết kế hệ thống.
         - Hoàn thành chức năng đăng nhập.
+        - Hoàn thành chức năng kết nối máy chủ.
+        - Hoàn thành chức năng nhận báo cháy.
 - **Viết tài liệu**: Đang thực hiện | 02/10 - Hiện tại
 - **Chạy thử & sửa lỗi**: Đã lên kế hoạch | Hiện tại
 
@@ -43,6 +45,7 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 **1. Tốc độ**:
 
 - Máy chủ phát triển chiều ngang: Tăng tốc độ xử lí thông tin bằng cách thêm các Nodes và Balancer.
+- Phần mềm: Sử dụng ít tài nguyên (~50MB RAM).
 - Người dùng: Chỉ cần có điện thoại là đủ để sử dụng ứng dụng.
 
 **2. Tiện lợi**:
