@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://neursdev.tk/icons?i=flutter,nodejs" />
 </div>
+<div align="center">
+  <img src="https://neursdev.tk/icons?i=express,socketio,firebase,mongodb" />
+</div>
 
 ### VI | [EN](https://github.com/E14VN/.github/blob/main/profile/EN.md)
 
