@@ -1,10 +1,10 @@
 # E14VN
 
 <div align="center">
-  <img src="https://neursdev.tk/icons?i=flutter,nodejs" />
+  <img src="https://sili-icons.neursdev.tk/icons?i=flutter,nodejs" />
 </div>
 <div align="center">
-  <img src="https://neursdev.tk/icons?i=express,socketio,firebase,gcp,mongodb" />
+  <img src="https://sili-icons.neursdev.tk/icons?i=express,socketio,firebase,gcp,mongodb" />
 </div>
 
 ### VI | [EN](https://github.com/E14VN/.github/blob/main/profile/EN.md)
