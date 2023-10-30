@@ -38,31 +38,12 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 
 - **Lên ý tưởng**: Hoàn thành | 15/09 - 27/09
 - **Nghiên cứu & thử nghiệm**: Đang thực hiện | 01/10 - Hiện tại
-- **Thực hiện dự án**: Đang thực hiện | 02/10 - Hiện tại
-    - **Máy chủ**: Đang thực hiện | 02/10 - Hiện tại
-        - Hoàn thành thiết kế hệ thống.
-        - Hoàn thành chức năng đăng nhập cho trạm.
-        - Hoàn thành chức năng lưu trữ thông tin trạm.
-        - Hoàn thành chức năng gửi báo cháy tới trạm.
-        - Hoàn thành chức năng lưu trữ báo cháy cho trạm.
-        - Hoàn thành chức năng đăng kí cho người dùng.
-        - Hoàn thành chức năng lưu trữ thông tin người dùng.
-        - Hoàn thành chức năng nhận báo cháy từ người dùng.
-        - Hoàn thành chức năng gửi thông báo đẩy tới người dùng khoanh vùng.
-    - **Ứng dụng**: Đang thực hiện | 02/10 - Hiện tại
-        - Hoàn thành thiết kế hệ thống.
-        - Hoàn thành chức năng đăng kí.
-        - Hoàn thành chức năng thông báo.
-        - Hoàn thành chức năng chọn khoanh vùng.
-        - Hoàn thành chức năng thông báo toàn màn hình.
-        - Hoàn thành chức năng báo cháy.
-    - **Phần mềm**: Đang thực hiện | 15/10 - Hiện tại
-        - Hoàn thành thiết kế hệ thống.
-        - Hoàn thành chức năng đăng nhập.
-        - Hoàn thành chức năng kết nối máy chủ.
-        - Hoàn thành chức năng nhận báo cháy.
+- **Thực hiện dự án**: Hoàn thành bản **Alpha** | 02/10 - 30/10
+    - **Máy chủ**: Hoàn thành | 02/10 - 30/10
+    - **Ứng dụng**: Hoàn thành | 02/10 - 30/10
+    - **Phần mềm**: Hoàn thành | 15/10 - 30/10
 - **Viết tài liệu**: Đang thực hiện | 02/10 - Hiện tại
-- **Chạy thử & sửa lỗi**: Đã lên kế hoạch | Hiện tại
+- **Chạy thử & sửa lỗi**: Đã lên kế hoạch | 30/10 - Hiện tại
 
 ### Máy chủ và ứng dụng đang đến giai đoạn Alpha.
 
