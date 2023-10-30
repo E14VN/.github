@@ -40,8 +40,8 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 - **Nghiên cứu & thử nghiệm**: Đang thực hiện | 01/10 - Hiện tại
 - **Thực hiện dự án**: Hoàn thành bản **Alpha** | 02/10 - 30/10
     - **Máy chủ**: Hoàn thành | 02/10 - 30/10
-    - **Ứng dụng**: Hoàn thành | 02/10 - 30/10
-    - **Phần mềm**: Hoàn thành | 15/10 - 30/10
+    - **Ứng dụng người dùng**: Hoàn thành | 02/10 - 30/10
+    - **Phần mềm máy trực**: Hoàn thành | 15/10 - 30/10
 - **Viết tài liệu**: Đang thực hiện | 02/10 - Hiện tại
 - **Chạy thử & sửa lỗi**: Đã lên kế hoạch | 30/10 - Hiện tại
 
