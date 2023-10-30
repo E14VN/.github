@@ -28,7 +28,7 @@ Dự án phát triển ứng dụng báo động khẩn cấp (cháy, cứu thư
 
 - **Ứng dụng điện thoại**:
   - Phục vụ cho người dùng.
-  - Gọn nhẹ (6MB).
+  - Gọn nhẹ (10MB).
   - Có các chức năng như: Báo cháy, thêm liên kết, chọn khoanh vùng nhận thông báo.
   - Cơ chế fallback trong trường hợp máy chủ tắt.
   - Giao diện trực quan.
